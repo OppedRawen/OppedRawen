@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm OppedRawen</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Next.js and TensorFlow**
+- 🌱 I’m currently learning **Python and TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://davidyu.netlify.app/](https://davidyu.netlify.app/)
 
